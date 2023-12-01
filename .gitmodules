@@ -1,0 +1,9 @@
+[submodule "ConnexionUserAuthDemoReactApp"]
+	path = ConnexionUserAuthDemoReactApp
+	url = git@github.com:rinkaaan/ConnexionUserAuthDemoReactApp.git
+[submodule "ConnexionUserAuthDemoApi"]
+	path = ConnexionUserAuthDemoApi
+	url = git@github.com:rinkaaan/ConnexionUserAuthDemoApi.git
+[submodule "PythonUtils"]
+	path = PythonUtils
+	url = git@github.com:rinkaaan/PythonUtils.git
